@@ -14,3 +14,6 @@ Boolean(NaN);
 console.log(Boolean(NaN));
 //=>false
 
+Boolean('');
+console.log(Boolean(''));
+//=>false 
