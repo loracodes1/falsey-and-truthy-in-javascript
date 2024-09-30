@@ -8,4 +8,7 @@ console.log(Boolean(undefined));
 
 Boolean(null);
 console.log(Boolean(null))
+//=>false
+
+Boolean();
 
