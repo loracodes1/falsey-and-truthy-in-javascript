@@ -18,5 +18,9 @@ Boolean('');
 console.log(Boolean(''));
 //=>false 
 
-Boolean(true)
-console.log(Boolean(true))
+Boolean(true);
+console.log(Boolean(true));
+//=>true
+
+Boolean("Loracodes");
+console.log(Boolean("Loracodes"));
