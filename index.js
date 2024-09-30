@@ -29,3 +29,7 @@ console.log(Boolean("Loracodes"));
 Boolean(42);
 console.log(Boolean(42));
 //=>true
+
+Boolean({firstName:'florence', secondName:'Loracodes'});
+console.log(Boolean({firstName:'florence', secondName:'Loracodes'}));
+//true
