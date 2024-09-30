@@ -10,5 +10,7 @@ Boolean(null);
 console.log(Boolean(null))
 //=>false
 
-Boolean();
+Boolean(NaN);
+console.log(Boolean(NaN));
+//=>false
 
