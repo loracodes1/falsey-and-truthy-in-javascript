@@ -24,3 +24,8 @@ console.log(Boolean(true));
 
 Boolean("Loracodes");
 console.log(Boolean("Loracodes"));
+//=>true
+
+Boolean(42);
+console.log(Boolean(42));
+//=>true
